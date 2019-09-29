@@ -1,0 +1,19 @@
+{
+  "name": "scaffold",
+  "version": "1.0.0",
+  "description": "Foundation for API development with NodeJs",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.0.200:8174/scaffold.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api"
+  ],
+  "author": "Nagesh Subrahmanyam",
+  "license": "ISC"
+}
