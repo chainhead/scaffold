@@ -2,15 +2,10 @@
 
 This project enables the development of APIs with NodeJS.
 
-## Invocation
-
 ## Installation
 
-Clone this repository and then change the remote to your repository.
-
 ```bash
-git clone
-git 
+curl https://github.com/chainhead/scaffold/ | bash
 ```
 
 ## Usage
